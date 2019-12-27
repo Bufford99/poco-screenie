@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Poco Screenie</string>
+    <string name="no_image_picked">No Image Picked.\nClick The \'+\' Button To Get Started!</string>
 </resources>
